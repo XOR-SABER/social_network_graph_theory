@@ -32,7 +32,7 @@ person (including that person).
 This means that if Bill is friends with Bob, and Bob is friends with Cindy,
 but Danica is friends with none of them, choosing to print out the network of Bill
 
-will output:
+    will output:
 - Bill
 - Bob
 - Cindy
@@ -40,7 +40,7 @@ will output:
 5. You will need to be able to print out everyone in
 the system. Given the example in #4 above.
 
-will output:
+    will output:
 - Bill
 - Bob
 - Cindy
