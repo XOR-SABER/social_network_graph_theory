@@ -46,6 +46,6 @@ the system. Given the example in #4 above.
 
     will output:
 - Bill
-- Bob
-- Cindy
+- Alex
+- Aiden
 - Danica
